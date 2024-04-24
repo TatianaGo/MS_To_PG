@@ -4,4 +4,5 @@ git status
 git branch (посмотреть)
 git branch testbranch (создать ветку)
 git branch -D testbranch (удалить ветку testbranch)
+git checkout master (перейти в ветку master)
 
